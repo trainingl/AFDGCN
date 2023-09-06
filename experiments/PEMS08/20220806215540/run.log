@@ -1,0 +1,208 @@
+2022-08-06 21:55: Experiment log path in: /root/experiments/PEMS08/20220806215540
+2022-08-06 21:55: Epoch 001, Train Loss: 105.2215, Valid Loss: 65.5068, Training Time: 16.7042 secs.
+2022-08-06 21:55: Current best model saved!
+2022-08-06 21:56: Epoch 002, Train Loss: 50.0617, Valid Loss: 37.1279, Training Time: 16.1972 secs.
+2022-08-06 21:56: Current best model saved!
+2022-08-06 21:56: Epoch 003, Train Loss: 33.3138, Valid Loss: 27.7384, Training Time: 16.1993 secs.
+2022-08-06 21:56: Current best model saved!
+2022-08-06 21:56: Epoch 004, Train Loss: 25.7509, Valid Loss: 24.2480, Training Time: 16.2001 secs.
+2022-08-06 21:56: Current best model saved!
+2022-08-06 21:57: Epoch 005, Train Loss: 22.8008, Valid Loss: 20.3484, Training Time: 16.2203 secs.
+2022-08-06 21:57: Current best model saved!
+2022-08-06 21:57: Epoch 006, Train Loss: 21.1938, Valid Loss: 19.1012, Training Time: 16.2142 secs.
+2022-08-06 21:57: Current best model saved!
+2022-08-06 21:57: Epoch 007, Train Loss: 20.0823, Valid Loss: 19.7955, Training Time: 16.2285 secs.
+2022-08-06 21:58: Epoch 008, Train Loss: 19.4279, Valid Loss: 18.6849, Training Time: 16.2096 secs.
+2022-08-06 21:58: Current best model saved!
+2022-08-06 21:58: Epoch 009, Train Loss: 18.9988, Valid Loss: 18.6359, Training Time: 16.2142 secs.
+2022-08-06 21:58: Current best model saved!
+2022-08-06 21:58: Epoch 010, Train Loss: 18.5243, Valid Loss: 18.1266, Training Time: 16.2166 secs.
+2022-08-06 21:58: Current best model saved!
+2022-08-06 21:59: Epoch 011, Train Loss: 18.1241, Valid Loss: 17.9921, Training Time: 16.2035 secs.
+2022-08-06 21:59: Current best model saved!
+2022-08-06 21:59: Epoch 012, Train Loss: 17.9049, Valid Loss: 18.3452, Training Time: 16.2119 secs.
+2022-08-06 21:59: Epoch 013, Train Loss: 17.7594, Valid Loss: 17.5417, Training Time: 16.2029 secs.
+2022-08-06 21:59: Current best model saved!
+2022-08-06 21:59: Epoch 014, Train Loss: 17.2991, Valid Loss: 17.5097, Training Time: 16.2020 secs.
+2022-08-06 21:59: Current best model saved!
+2022-08-06 22:00: Epoch 015, Train Loss: 17.1195, Valid Loss: 17.1961, Training Time: 16.2065 secs.
+2022-08-06 22:00: Current best model saved!
+2022-08-06 22:00: Epoch 016, Train Loss: 16.8750, Valid Loss: 17.7690, Training Time: 16.2102 secs.
+2022-08-06 22:00: Epoch 017, Train Loss: 16.7987, Valid Loss: 17.0980, Training Time: 16.2071 secs.
+2022-08-06 22:00: Current best model saved!
+2022-08-06 22:01: Epoch 018, Train Loss: 16.5113, Valid Loss: 17.1361, Training Time: 16.1973 secs.
+2022-08-06 22:01: Epoch 019, Train Loss: 16.2832, Valid Loss: 16.5522, Training Time: 16.2061 secs.
+2022-08-06 22:01: Current best model saved!
+2022-08-06 22:01: Epoch 020, Train Loss: 16.1345, Valid Loss: 16.2784, Training Time: 16.2164 secs.
+2022-08-06 22:01: Current best model saved!
+2022-08-06 22:02: Epoch 021, Train Loss: 16.0284, Valid Loss: 16.4811, Training Time: 16.2049 secs.
+2022-08-06 22:02: Epoch 022, Train Loss: 15.9488, Valid Loss: 16.3715, Training Time: 16.2194 secs.
+2022-08-06 22:02: Epoch 023, Train Loss: 15.9899, Valid Loss: 16.5040, Training Time: 16.2041 secs.
+2022-08-06 22:02: Epoch 024, Train Loss: 15.7996, Valid Loss: 16.3017, Training Time: 16.2102 secs.
+2022-08-06 22:03: Epoch 025, Train Loss: 15.5787, Valid Loss: 16.1648, Training Time: 16.1969 secs.
+2022-08-06 22:03: Current best model saved!
+2022-08-06 22:03: Epoch 026, Train Loss: 15.5094, Valid Loss: 16.1761, Training Time: 16.2103 secs.
+2022-08-06 22:03: Epoch 027, Train Loss: 15.4981, Valid Loss: 16.3496, Training Time: 16.2020 secs.
+2022-08-06 22:04: Epoch 028, Train Loss: 15.4643, Valid Loss: 16.4021, Training Time: 16.2066 secs.
+2022-08-06 22:04: Epoch 029, Train Loss: 15.4535, Valid Loss: 16.5474, Training Time: 16.2127 secs.
+2022-08-06 22:04: Epoch 030, Train Loss: 15.2873, Valid Loss: 15.7826, Training Time: 16.2127 secs.
+2022-08-06 22:04: Current best model saved!
+2022-08-06 22:05: Epoch 031, Train Loss: 15.2372, Valid Loss: 15.7527, Training Time: 16.2099 secs.
+2022-08-06 22:05: Current best model saved!
+2022-08-06 22:05: Epoch 032, Train Loss: 15.1513, Valid Loss: 15.6619, Training Time: 16.2096 secs.
+2022-08-06 22:05: Current best model saved!
+2022-08-06 22:05: Epoch 033, Train Loss: 15.1621, Valid Loss: 15.7143, Training Time: 16.1912 secs.
+2022-08-06 22:05: Epoch 034, Train Loss: 15.1039, Valid Loss: 15.7753, Training Time: 16.2112 secs.
+2022-08-06 22:06: Epoch 035, Train Loss: 15.0834, Valid Loss: 15.9249, Training Time: 16.2238 secs.
+2022-08-06 22:06: Epoch 036, Train Loss: 14.9861, Valid Loss: 15.5774, Training Time: 16.2122 secs.
+2022-08-06 22:06: Current best model saved!
+2022-08-06 22:06: Epoch 037, Train Loss: 15.0186, Valid Loss: 15.5647, Training Time: 16.2341 secs.
+2022-08-06 22:06: Current best model saved!
+2022-08-06 22:07: Epoch 038, Train Loss: 14.9018, Valid Loss: 15.9242, Training Time: 16.2094 secs.
+2022-08-06 22:07: Epoch 039, Train Loss: 14.8832, Valid Loss: 15.5744, Training Time: 16.2070 secs.
+2022-08-06 22:07: Epoch 040, Train Loss: 14.8815, Valid Loss: 15.5535, Training Time: 16.2231 secs.
+2022-08-06 22:07: Current best model saved!
+2022-08-06 22:08: Epoch 041, Train Loss: 14.7418, Valid Loss: 15.5843, Training Time: 16.2008 secs.
+2022-08-06 22:08: Epoch 042, Train Loss: 14.8466, Valid Loss: 15.7137, Training Time: 16.2050 secs.
+2022-08-06 22:08: Epoch 043, Train Loss: 14.7335, Valid Loss: 15.5113, Training Time: 16.2283 secs.
+2022-08-06 22:08: Current best model saved!
+2022-08-06 22:08: Epoch 044, Train Loss: 14.6635, Valid Loss: 15.6763, Training Time: 16.2276 secs.
+2022-08-06 22:09: Epoch 045, Train Loss: 14.6465, Valid Loss: 15.6829, Training Time: 16.2219 secs.
+2022-08-06 22:09: Epoch 046, Train Loss: 14.6404, Valid Loss: 15.5896, Training Time: 16.2045 secs.
+2022-08-06 22:09: Epoch 047, Train Loss: 14.6281, Valid Loss: 16.0176, Training Time: 16.1936 secs.
+2022-08-06 22:10: Epoch 048, Train Loss: 14.7523, Valid Loss: 15.3562, Training Time: 16.1919 secs.
+2022-08-06 22:10: Current best model saved!
+2022-08-06 22:10: Epoch 049, Train Loss: 14.6030, Valid Loss: 15.4822, Training Time: 16.2010 secs.
+2022-08-06 22:10: Epoch 050, Train Loss: 14.5764, Valid Loss: 15.6780, Training Time: 16.2056 secs.
+2022-08-06 22:11: Epoch 051, Train Loss: 14.4951, Valid Loss: 15.6637, Training Time: 16.1984 secs.
+2022-08-06 22:11: Epoch 052, Train Loss: 14.5570, Valid Loss: 15.4585, Training Time: 16.2148 secs.
+2022-08-06 22:11: Epoch 053, Train Loss: 14.4495, Valid Loss: 15.5122, Training Time: 16.1909 secs.
+2022-08-06 22:11: Epoch 054, Train Loss: 14.4336, Valid Loss: 15.4824, Training Time: 16.2178 secs.
+2022-08-06 22:12: Epoch 055, Train Loss: 14.3957, Valid Loss: 15.4131, Training Time: 16.2100 secs.
+2022-08-06 22:12: Epoch 056, Train Loss: 14.4312, Valid Loss: 15.4866, Training Time: 16.1897 secs.
+2022-08-06 22:12: Epoch 057, Train Loss: 14.3787, Valid Loss: 15.4837, Training Time: 16.2121 secs.
+2022-08-06 22:13: Epoch 058, Train Loss: 14.3212, Valid Loss: 15.5273, Training Time: 16.2031 secs.
+2022-08-06 22:13: Epoch 059, Train Loss: 14.3388, Valid Loss: 15.5158, Training Time: 16.2082 secs.
+2022-08-06 22:13: Epoch 060, Train Loss: 14.3399, Valid Loss: 15.3285, Training Time: 16.1964 secs.
+2022-08-06 22:13: Current best model saved!
+2022-08-06 22:14: Epoch 061, Train Loss: 14.2882, Valid Loss: 15.3543, Training Time: 16.1993 secs.
+2022-08-06 22:14: Epoch 062, Train Loss: 14.2067, Valid Loss: 15.8467, Training Time: 16.1931 secs.
+2022-08-06 22:14: Epoch 063, Train Loss: 14.3077, Valid Loss: 15.2022, Training Time: 16.1860 secs.
+2022-08-06 22:14: Current best model saved!
+2022-08-06 22:15: Epoch 064, Train Loss: 14.2427, Valid Loss: 15.6696, Training Time: 16.2095 secs.
+2022-08-06 22:15: Epoch 065, Train Loss: 14.1933, Valid Loss: 15.1818, Training Time: 16.1978 secs.
+2022-08-06 22:15: Current best model saved!
+2022-08-06 22:15: Epoch 066, Train Loss: 14.1526, Valid Loss: 15.2177, Training Time: 16.1884 secs.
+2022-08-06 22:15: Epoch 067, Train Loss: 14.1434, Valid Loss: 15.4090, Training Time: 16.1892 secs.
+2022-08-06 22:16: Epoch 068, Train Loss: 14.0956, Valid Loss: 15.2150, Training Time: 16.1789 secs.
+2022-08-06 22:16: Epoch 069, Train Loss: 14.0916, Valid Loss: 15.2134, Training Time: 16.1917 secs.
+2022-08-06 22:16: Epoch 070, Train Loss: 14.0986, Valid Loss: 15.2794, Training Time: 16.2026 secs.
+2022-08-06 22:17: Epoch 071, Train Loss: 14.0683, Valid Loss: 15.1667, Training Time: 16.1937 secs.
+2022-08-06 22:17: Current best model saved!
+2022-08-06 22:17: Epoch 072, Train Loss: 14.0607, Valid Loss: 15.6800, Training Time: 16.2033 secs.
+2022-08-06 22:17: Epoch 073, Train Loss: 14.0660, Valid Loss: 15.4923, Training Time: 16.1902 secs.
+2022-08-06 22:18: Epoch 074, Train Loss: 14.1175, Valid Loss: 15.0580, Training Time: 16.2003 secs.
+2022-08-06 22:18: Current best model saved!
+2022-08-06 22:18: Epoch 075, Train Loss: 14.0460, Valid Loss: 15.0579, Training Time: 16.1964 secs.
+2022-08-06 22:18: Current best model saved!
+2022-08-06 22:18: Epoch 076, Train Loss: 13.9852, Valid Loss: 15.2402, Training Time: 16.2067 secs.
+2022-08-06 22:18: Epoch 077, Train Loss: 13.9954, Valid Loss: 15.0268, Training Time: 16.1856 secs.
+2022-08-06 22:18: Current best model saved!
+2022-08-06 22:19: Epoch 078, Train Loss: 13.9685, Valid Loss: 15.1434, Training Time: 16.1827 secs.
+2022-08-06 22:19: Epoch 079, Train Loss: 13.9567, Valid Loss: 15.1103, Training Time: 16.1948 secs.
+2022-08-06 22:19: Epoch 080, Train Loss: 13.9579, Valid Loss: 15.1501, Training Time: 16.1885 secs.
+2022-08-06 22:20: Epoch 081, Train Loss: 13.9289, Valid Loss: 15.2230, Training Time: 16.1952 secs.
+2022-08-06 22:20: Epoch 082, Train Loss: 13.8771, Valid Loss: 14.9882, Training Time: 16.2066 secs.
+2022-08-06 22:20: Current best model saved!
+2022-08-06 22:20: Epoch 083, Train Loss: 13.9199, Valid Loss: 15.0757, Training Time: 16.1774 secs.
+2022-08-06 22:21: Epoch 084, Train Loss: 13.8798, Valid Loss: 15.1836, Training Time: 16.1911 secs.
+2022-08-06 22:21: Epoch 085, Train Loss: 13.9240, Valid Loss: 15.4049, Training Time: 16.1845 secs.
+2022-08-06 22:21: Epoch 086, Train Loss: 13.8917, Valid Loss: 15.2019, Training Time: 16.2013 secs.
+2022-08-06 22:21: Epoch 087, Train Loss: 13.8252, Valid Loss: 15.0281, Training Time: 16.1871 secs.
+2022-08-06 22:22: Epoch 088, Train Loss: 13.8281, Valid Loss: 15.1238, Training Time: 16.1960 secs.
+2022-08-06 22:22: Epoch 089, Train Loss: 13.8437, Valid Loss: 14.9451, Training Time: 16.1848 secs.
+2022-08-06 22:22: Current best model saved!
+2022-08-06 22:22: Epoch 090, Train Loss: 13.7914, Valid Loss: 15.1030, Training Time: 16.1879 secs.
+2022-08-06 22:23: Epoch 091, Train Loss: 13.7810, Valid Loss: 15.0712, Training Time: 16.1781 secs.
+2022-08-06 22:23: Epoch 092, Train Loss: 13.8353, Valid Loss: 15.3315, Training Time: 16.1972 secs.
+2022-08-06 22:23: Epoch 093, Train Loss: 13.8011, Valid Loss: 15.2887, Training Time: 16.1872 secs.
+2022-08-06 22:24: Epoch 094, Train Loss: 13.7677, Valid Loss: 15.2273, Training Time: 16.1929 secs.
+2022-08-06 22:24: Epoch 095, Train Loss: 13.7493, Valid Loss: 15.0781, Training Time: 16.1924 secs.
+2022-08-06 22:24: Epoch 096, Train Loss: 13.7103, Valid Loss: 15.1674, Training Time: 16.2032 secs.
+2022-08-06 22:24: Epoch 097, Train Loss: 13.7341, Valid Loss: 14.9701, Training Time: 16.1933 secs.
+2022-08-06 22:25: Epoch 098, Train Loss: 13.6849, Valid Loss: 15.0462, Training Time: 16.2044 secs.
+2022-08-06 22:25: Epoch 099, Train Loss: 13.7259, Valid Loss: 14.9755, Training Time: 16.1940 secs.
+2022-08-06 22:25: Epoch 100, Train Loss: 13.6918, Valid Loss: 15.2342, Training Time: 16.1923 secs.
+2022-08-06 22:26: Epoch 101, Train Loss: 13.7185, Valid Loss: 14.9220, Training Time: 16.2089 secs.
+2022-08-06 22:26: Current best model saved!
+2022-08-06 22:26: Epoch 102, Train Loss: 13.7047, Valid Loss: 14.9947, Training Time: 16.2017 secs.
+2022-08-06 22:26: Epoch 103, Train Loss: 13.6560, Valid Loss: 15.1509, Training Time: 16.2057 secs.
+2022-08-06 22:27: Epoch 104, Train Loss: 13.6446, Valid Loss: 14.9663, Training Time: 16.2118 secs.
+2022-08-06 22:27: Epoch 105, Train Loss: 13.6712, Valid Loss: 15.0159, Training Time: 16.2034 secs.
+2022-08-06 22:27: Epoch 106, Train Loss: 13.6137, Valid Loss: 15.0212, Training Time: 16.1967 secs.
+2022-08-06 22:27: Epoch 107, Train Loss: 13.6413, Valid Loss: 14.9041, Training Time: 16.2059 secs.
+2022-08-06 22:27: Current best model saved!
+2022-08-06 22:28: Epoch 108, Train Loss: 13.6030, Valid Loss: 15.1337, Training Time: 16.2038 secs.
+2022-08-06 22:28: Epoch 109, Train Loss: 13.5957, Valid Loss: 15.1792, Training Time: 16.1766 secs.
+2022-08-06 22:28: Epoch 110, Train Loss: 13.5759, Valid Loss: 14.9266, Training Time: 16.1944 secs.
+2022-08-06 22:29: Epoch 111, Train Loss: 13.5917, Valid Loss: 14.9813, Training Time: 16.1804 secs.
+2022-08-06 22:29: Epoch 112, Train Loss: 13.5582, Valid Loss: 14.9238, Training Time: 16.1928 secs.
+2022-08-06 22:29: Epoch 113, Train Loss: 13.5550, Valid Loss: 15.0177, Training Time: 16.1722 secs.
+2022-08-06 22:30: Epoch 114, Train Loss: 13.5246, Valid Loss: 15.0357, Training Time: 16.1763 secs.
+2022-08-06 22:30: Epoch 115, Train Loss: 13.5331, Valid Loss: 14.9378, Training Time: 16.1907 secs.
+2022-08-06 22:30: Epoch 116, Train Loss: 13.5316, Valid Loss: 15.0587, Training Time: 16.1944 secs.
+2022-08-06 22:31: Epoch 117, Train Loss: 13.5192, Valid Loss: 15.0428, Training Time: 16.1962 secs.
+2022-08-06 22:31: Epoch 118, Train Loss: 13.5155, Valid Loss: 15.7563, Training Time: 16.2010 secs.
+2022-08-06 22:31: Epoch 119, Train Loss: 13.5136, Valid Loss: 14.8768, Training Time: 16.2006 secs.
+2022-08-06 22:31: Current best model saved!
+2022-08-06 22:31: Epoch 120, Train Loss: 13.5285, Valid Loss: 15.0134, Training Time: 16.1926 secs.
+2022-08-06 22:32: Epoch 121, Train Loss: 13.4651, Valid Loss: 15.0862, Training Time: 16.2088 secs.
+2022-08-06 22:32: Epoch 122, Train Loss: 13.5177, Valid Loss: 14.9504, Training Time: 16.2018 secs.
+2022-08-06 22:32: Epoch 123, Train Loss: 13.4873, Valid Loss: 15.0787, Training Time: 16.1943 secs.
+2022-08-06 22:33: Epoch 124, Train Loss: 13.4639, Valid Loss: 14.9359, Training Time: 16.1887 secs.
+2022-08-06 22:33: Epoch 125, Train Loss: 13.5046, Valid Loss: 14.8871, Training Time: 16.2064 secs.
+2022-08-06 22:33: Epoch 126, Train Loss: 13.4789, Valid Loss: 14.8655, Training Time: 16.1878 secs.
+2022-08-06 22:33: Current best model saved!
+2022-08-06 22:34: Epoch 127, Train Loss: 13.4206, Valid Loss: 14.8918, Training Time: 16.1848 secs.
+2022-08-06 22:34: Epoch 128, Train Loss: 13.4354, Valid Loss: 15.1395, Training Time: 16.1997 secs.
+2022-08-06 22:34: Epoch 129, Train Loss: 13.4428, Valid Loss: 14.9597, Training Time: 16.1968 secs.
+2022-08-06 22:34: Epoch 130, Train Loss: 13.4474, Valid Loss: 15.1120, Training Time: 16.1898 secs.
+2022-08-06 22:35: Epoch 131, Train Loss: 13.4337, Valid Loss: 15.1356, Training Time: 16.1959 secs.
+2022-08-06 22:35: Epoch 132, Train Loss: 13.4150, Valid Loss: 14.9802, Training Time: 16.1876 secs.
+2022-08-06 22:35: Epoch 133, Train Loss: 13.4115, Valid Loss: 14.9177, Training Time: 16.1853 secs.
+2022-08-06 22:36: Epoch 134, Train Loss: 13.3914, Valid Loss: 14.9837, Training Time: 16.1929 secs.
+2022-08-06 22:36: Epoch 135, Train Loss: 13.4125, Valid Loss: 15.1669, Training Time: 16.1852 secs.
+2022-08-06 22:36: Epoch 136, Train Loss: 13.3901, Valid Loss: 15.4674, Training Time: 16.1718 secs.
+2022-08-06 22:37: Epoch 137, Train Loss: 13.3982, Valid Loss: 14.8514, Training Time: 16.1949 secs.
+2022-08-06 22:37: Current best model saved!
+2022-08-06 22:37: Epoch 138, Train Loss: 13.3426, Valid Loss: 14.8818, Training Time: 16.1933 secs.
+2022-08-06 22:37: Epoch 139, Train Loss: 13.3720, Valid Loss: 14.8539, Training Time: 16.1833 secs.
+2022-08-06 22:37: Epoch 140, Train Loss: 13.3372, Valid Loss: 14.9459, Training Time: 16.1899 secs.
+2022-08-06 22:38: Epoch 141, Train Loss: 13.3589, Valid Loss: 14.9487, Training Time: 16.1922 secs.
+2022-08-06 22:38: Epoch 142, Train Loss: 13.3559, Valid Loss: 15.0268, Training Time: 16.1922 secs.
+2022-08-06 22:38: Epoch 143, Train Loss: 13.3600, Valid Loss: 14.9774, Training Time: 16.1994 secs.
+2022-08-06 22:39: Epoch 144, Train Loss: 13.4042, Valid Loss: 15.0596, Training Time: 16.1963 secs.
+2022-08-06 22:39: Epoch 145, Train Loss: 13.3350, Valid Loss: 15.0150, Training Time: 16.1924 secs.
+2022-08-06 22:39: Epoch 146, Train Loss: 13.3213, Valid Loss: 14.9248, Training Time: 16.1845 secs.
+2022-08-06 22:40: Epoch 147, Train Loss: 13.2982, Valid Loss: 15.0633, Training Time: 16.1920 secs.
+2022-08-06 22:40: Epoch 148, Train Loss: 13.2887, Valid Loss: 14.9199, Training Time: 16.1999 secs.
+2022-08-06 22:40: Epoch 149, Train Loss: 13.2767, Valid Loss: 15.0271, Training Time: 16.1896 secs.
+2022-08-06 22:40: Epoch 150, Train Loss: 13.3148, Valid Loss: 15.3098, Training Time: 16.1859 secs.
+2022-08-06 22:41: Epoch 151, Train Loss: 13.2881, Valid Loss: 15.0093, Training Time: 16.1861 secs.
+2022-08-06 22:41: Epoch 152, Train Loss: 13.3119, Valid Loss: 15.0244, Training Time: 16.1860 secs.
+2022-08-06 22:41: Validation performance didn't improve for 15 epochs. Training stops.
+2022-08-06 22:41: Total training time: 45.9100 min, best loss: 14.851404
+2022-08-06 22:41: Saving current best model to /root/experiments/PEMS08/20220806215540/PEMS08_AFDGCN_best_model.pth
+2022-08-06 22:41: Horizon 01, MAE: 13.33, RMSE: 20.81, MAPE: 8.8826%
+2022-08-06 22:41: Horizon 02, MAE: 13.84, RMSE: 21.90, MAPE: 9.0598%
+2022-08-06 22:41: Horizon 03, MAE: 14.19, RMSE: 22.65, MAPE: 9.2291%
+2022-08-06 22:41: Horizon 04, MAE: 14.45, RMSE: 23.28, MAPE: 9.4226%
+2022-08-06 22:41: Horizon 05, MAE: 14.70, RMSE: 23.85, MAPE: 9.5635%
+2022-08-06 22:41: Horizon 06, MAE: 14.96, RMSE: 24.38, MAPE: 9.7061%
+2022-08-06 22:41: Horizon 07, MAE: 15.20, RMSE: 24.82, MAPE: 9.8876%
+2022-08-06 22:41: Horizon 08, MAE: 15.45, RMSE: 25.25, MAPE: 10.0262%
+2022-08-06 22:41: Horizon 09, MAE: 15.65, RMSE: 25.58, MAPE: 10.1786%
+2022-08-06 22:41: Horizon 10, MAE: 15.86, RMSE: 25.93, MAPE: 10.3532%
+2022-08-06 22:41: Horizon 11, MAE: 16.13, RMSE: 26.30, MAPE: 10.5266%
+2022-08-06 22:41: Horizon 12, MAE: 16.49, RMSE: 26.80, MAPE: 10.7127%
+2022-08-06 22:41: Average Horizon, MAE: 15.02, RMSE: 24.36, MAPE: 9.7957%
