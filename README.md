@@ -1,8 +1,8 @@
 # AFDGCN
 Code and logs of  our paper “Dynamic Graph Convolutional Network with Attention Fusion for Traffic Flow Prediction” accepted by ECAI 2023.
 
-## 😏Requirements
-Install the version of the following python module：
+#📄Requirements
+Install the version of the following python modules：
 ```bash
 numpy==1.23.5
 pandas==1.1.3
