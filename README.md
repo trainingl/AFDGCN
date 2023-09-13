@@ -39,6 +39,6 @@ model = Network(num_node = args.num_nodes,
 # *****************************************  初始化模型参数 ****************************************** #
 ```
 ## ✨Acknowledgments
-Thanks to the authors of [STG-NCDE](https://github.com/jeongwhanchoi/STG-NCDE) for providing us with their source code and experimental results (retained models and logs) for visual analysis in our results.
+Thanks to the authors of [STG-NCDE](https://github.com/jeongwhanchoi/STG-NCDE) for providing us with their source code and experimental results (retained models and logs) for visual analysis in our research.
 
 
