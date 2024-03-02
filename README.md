@@ -3,6 +3,6 @@ Code and datasets of our paper “Dynamic Graph Convolutional Network with Atten
 
 
 ## ✨Acknowledgments
-Thanks to the authors of [STG-NCDE](https://github.com/jeongwhanchoi/STG-NCDE) for providing us with their source code and experimental results (retained models and logs) for visual analysis in our research.
+Thanks to the authors of [STG-NCDE](https://github.com/jeongwhanchoi/STG-NCDE) for providing us with their source code and experimental results (pre-trained models and logs) for visual analysis in our research.
 
 
