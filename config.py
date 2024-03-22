@@ -2,8 +2,8 @@ import argparse
 import configparser
 
 # *****************************************  参数初始化配置 ****************************************** #
-Mode = 'test'
-DEBUG = 'True'
+Mode = 'train'
+DEBUG = 'False'
 DATASET = 'PEMS04'
 DEVICE = 'cuda:1'
 MODEL = 'AFDGCN'
