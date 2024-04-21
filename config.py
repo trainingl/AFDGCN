@@ -8,7 +8,7 @@ DATASET = 'PEMS04'
 DEVICE = 'cuda:1'
 MODEL = 'AFDGCN'
 GRAPH = "./data/PEMS04/PEMS04.csv"
-K = 0.
+K = 0.1
 # FILENAME_ID = "./data/PEMS03/PEMS03.txt"
 FILENAME_ID = None
 
